@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [09/Apr/2025:09:15:31 +0000] "GET / HTTP/1.1" 200 4782 http-bio-8000-exec-1 31
+0:0:0:0:0:0:0:1 - - [09/Apr/2025:09:15:35 +0000] "GET /welcome.html HTTP/1.1" 304 - http-bio-8000-exec-2 3
+0:0:0:0:0:0:0:1 - - [09/Apr/2025:09:15:38 +0000] "GET /api/user/info HTTP/1.1" 200 66 http-bio-8000-exec-3 590
+0:0:0:0:0:0:0:1 - - [09/Apr/2025:09:15:39 +0000] "GET /api/user/info HTTP/1.1" 200 66 http-bio-8000-exec-4 5
+0:0:0:0:0:0:0:1 - - [09/Apr/2025:09:15:50 +0000] "GET /welcome.html HTTP/1.1" 304 - http-bio-8000-exec-5 1
+0:0:0:0:0:0:0:1 - - [09/Apr/2025:09:15:51 +0000] "GET /api/user/info HTTP/1.1" 200 66 http-bio-8000-exec-6 4
+0:0:0:0:0:0:0:1 - - [09/Apr/2025:09:16:14 +0000] "GET /welcome.html HTTP/1.1" 200 3856 http-bio-8000-exec-7 1
+0:0:0:0:0:0:0:1 - - [09/Apr/2025:09:16:16 +0000] "GET /api/user/info HTTP/1.1" 200 66 http-bio-8000-exec-8 6
+0:0:0:0:0:0:0:1 - - [09/Apr/2025:09:16:48 +0000] "GET /welcome.html HTTP/1.1" 304 - http-bio-8000-exec-9 2
+0:0:0:0:0:0:0:1 - - [09/Apr/2025:09:16:49 +0000] "GET /api/user/info HTTP/1.1" 200 66 http-bio-8000-exec-10 7
+0:0:0:0:0:0:0:1 - - [09/Apr/2025:09:16:55 +0000] "GET /index.html HTTP/1.1" 200 4782 http-bio-8000-exec-10 1
+0:0:0:0:0:0:0:1 - - [09/Apr/2025:09:23:34 +0000] "GET /welcome.html HTTP/1.1" 304 - http-bio-8000-exec-3 17
+0:0:0:0:0:0:0:1 - - [09/Apr/2025:09:23:35 +0000] "GET /api/user/info HTTP/1.1" 200 66 http-bio-8000-exec-3 75
+0:0:0:0:0:0:0:1 - - [09/Apr/2025:09:23:37 +0000] "GET /welcome.html HTTP/1.1" 304 - http-bio-8000-exec-3 1
+0:0:0:0:0:0:0:1 - - [09/Apr/2025:09:23:38 +0000] "GET /api/user/info HTTP/1.1" 200 66 http-bio-8000-exec-3 8
